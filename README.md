@@ -10,3 +10,13 @@ This program is a horoscope bot that receives a name, month and date from the us
 5. get_img()
 6. get_horoscope()
 7. print_outro()
+
+## Requirements
+
+## Installation
+
+## Libraries
+
+'''python
+
+'''
