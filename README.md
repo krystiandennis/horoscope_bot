@@ -11,13 +11,30 @@ This program is a horoscope bot that receives a name, month and date from the us
 6. get_horoscope()
 7. print_outro()
 
-## Requirements
+## Files 
+
+README.md: Instruction Guide
+Messages.py:
+aries.jpg:
+taurus.jpg:
+gemini.jpg:
+cancer.jpg:
+leo.jpg:
+virgo.jpg:
+libra.jpg:
+scorpio.jpg:
+sagittarius.jpg:
+capricorn:
+aquarius.jpg:
+pisces.jpg:
 
 ## Installation
-
+In order to run the code in the jupyter notebook, you must have Python installed on you computer. Use Anaconda, as it had many useful libraries pre-installed. 
 ## Libraries
 
 ```python
+Import the following libraries:
+
 from IPython.core.display import HTML # to modify the location of images
 import time # to create countdown
 from messages import * # messages to create horoscopes
