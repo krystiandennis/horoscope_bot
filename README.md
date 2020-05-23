@@ -17,6 +17,13 @@ This program is a horoscope bot that receives a name, month and date from the us
 
 ## Libraries
 
-'''python
-
-'''
+```python
+from IPython.core.display import HTML # to modify the location of images
+import time # to create countdown
+from messages import * # messages to create horoscopes
+import random # to generate random choices
+from PIL import Image               # imaging library
+import matplotlib.pyplot as plt # to create visualiztions in python
+from matplotlib.pyplot import imshow # to display images using matplotlib
+%matplotlib inline # displays images inline
+```
